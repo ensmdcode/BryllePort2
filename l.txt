@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> E-Portfolio </title>
+    <style>
+        body {
+            background-image: url('https://wallpapercave.com/wp/wp7182483.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body> <br>
+<h1 align="left">
+    <font face="Monotype Corsiva" color="#8B0000" size="100" 
+          style="background-color: rgba(255, 255, 255, 0.7); padding: 10px; border: 5px solid #8B0000;">
+        E-Portfolio
+    </font>
+</h1>
+<table width="95%" border="1" bordercolor="#8B0000" cellspacing="5" align="center">
+<tr>
+<table width="95%" border="1" bordercolor="#8B0000" cellspacing="5" align="center">
+<tr>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="E-PORTFOLIO.html" target="_self" name="Home"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> Home </b> </font> </a>
+</td>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="am.html" target="_self" name="AboutMe"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> About me </b> </font> </a>
+</td>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="e.html" target="_self" name="Events"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> Events </b> </font> </a>
+</td>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="#" target="_self" name="Lessons"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> Lessons </b> </font> </a>
+</td>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="bo.html" target="_self" name="BrowserOutputs"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> Browser Outputs </b> </font> </a>
+</td>
+<td align="center" width="10%" style="background-color: rgba(255, 255, 255, 0.5);">
+<a href="r.html" target="_self" name="Reflection"> <font color="#8B0000" size="50" face="Monotype Corsiva"> <b> Reflection </b> </font> </a>
+</td>
+</tr>
+</table>
+
+<br><br>
+<audio style="width: 15vw; clear:right;" controls> <source src="OP.mp3" type="audio/mpeg"> </audio>  
+<table align="center" width="100%" border="1" cellpadding="10" cellspacing="0">
+<th bgcolor="#2337C6" colspan="5"> <font size="5" color="white"> Quarter 1 </font> </th>
+<tr>
+<th bgcolor="cyan"> <font size="5"> Lesson 1 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 2 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 3 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 4 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 5 </font> </th>
+
+</tr>
+<tr>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L1.pdf" target="_blank"> <img src="luffy.jpg" alt="Lesson 1 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L2.pdf" target="_blank"> <img src="zoro.jpg" alt="lesson 2 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L3.pdf" target="_blank"> <img src="usopp.jpg" alt="Lesson 3 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L4.pdf" target="_blank"> <img src="nami.jpg" alt="Lesson 4 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1Lesson5.pdf" target="_blank"> <img src="sanji.jpg" alt="Lesson 5 ppt" width="100%" height="155%"> </a>
+</td>
+
+</tr>
+<tr>
+<th bgcolor="cyan"> <font size="5"> Lesson 6 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 7 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 8 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 9 </font> </th>
+<th bgcolor="cyan"> <font size="5"> The End </font> </th>
+</tr>
+<tr>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L6.pdf" target="_blank"> <img src="chopper.png" alt="Lesson 6 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L7.pdf" target="_blank"> <img src="robin.jpg" alt="lesson 7 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L8.pdf" target="_blank"> <img src="brook.jpg" alt="Lesson 8 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<a href="Q1L9.pdf" target="_blank"> <img src="franky.jpg" alt="Lesson 9 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="20%" bgcolor="lightblue">
+<img src="ship.webp" alt="The Strawhat Ship" width="100%" height="155%">
+</td>
+</tr>
+</table>
+
+
+<table align="center" width="100%" border="1" cellpadding="10" cellspacing="0">
+<th bgcolor="#2337C6" colspan="6"> <font size="5" color="white"> Quarter 2 </font> </th>
+<tr>
+<th bgcolor="cyan"> <font size="5"> Lesson 1 and 2 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 3 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 4 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 5 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 6 </font> </th>
+<th bgcolor="cyan"> <font size="5"> Lesson 7 </font> </th>
+
+</tr>
+<tr>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L12.pdf" target="_blank"> <img src="shanks.jpg" alt="Lesson 1&2 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L3.pdf" target="_blank"> <img src="Ben.jpg" alt="lesson 3 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L4.pdf" target="_blank"> <img src="lucky.jpg" alt="Lesson 4 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L5.pdf" target="_blank"> <img src="yassop.jpg" alt="Lesson 5 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L6.pdf" target="_blank"> <img src="hongo.jpg" alt="Lesson 6 ppt" width="100%" height="155%"> </a>
+</td>
+<td align="center" width="16.67%" bgcolor="lightblue">
+<a href="Q2L7.pdf" target="_blank"> <img src="bonk.jpg" alt="Lesson 7 ppt" width="100%" height="155%"> </a>
+</td>
+
+</tr>
+</table>
+</body>
+</html>
